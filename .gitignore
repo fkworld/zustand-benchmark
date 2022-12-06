@@ -1,0 +1,11 @@
+# mac
+.DS_Store
+
+# node
+node_modules
+
+# vitest
+/coverage
+
+# project
+/dist

@@ -1,0 +1,22 @@
+ls:
+  .dir: kebab-case
+  .js: kebab-case
+  .jsx: kebab-case
+  .cjs: kebab-case | point.case
+  .mjs: kebab-case | point.case
+  .ts: kebab-case
+  .tsx: kebab-case
+  .d.ts: kebab-case
+  .test.ts: kebab-case
+  .test.tsx: kebab-case
+  .md: kebab-case
+  .mdx: kebab-case
+
+ignore:
+  - node_modules
+  - dist
+  - .git
+  - .husky
+  - .vscode
+  - README.md
+  - vite.config.js
