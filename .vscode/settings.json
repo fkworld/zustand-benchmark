@@ -1,5 +1,5 @@
 {
-  "cSpell.words": ["commitlint", "vite"],
+  "cSpell.words": ["commitlint", "vite", "zustand"],
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },

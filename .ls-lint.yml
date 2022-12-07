@@ -15,6 +15,7 @@ ls:
 ignore:
   - node_modules
   - dist
+  - docs
   - .git
   - .husky
   - .vscode
